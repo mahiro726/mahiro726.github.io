@@ -1,0 +1,17 @@
+/* 由 tools/subset_font.py 生成，请勿手改。共 211 个字符。
+   字体：Noto Serif SC（思源宋体），SIL Open Font License 1.1。 */
+@font-face {
+  font-family: "MX Serif";
+  src: url("./noto-serif-sc-500.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MX Serif";
+  src: url("./noto-serif-sc-600.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
